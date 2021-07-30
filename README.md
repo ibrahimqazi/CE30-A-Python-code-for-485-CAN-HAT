@@ -1,5 +1,3 @@
-CE30-A-CAN-Python-code-for-485-CAN-HAT
-
 CE30-A-CAN-Python-code and tutorial for interfacing 485-CAN-HAT with Benewake CE30-A LiDAR.
 
 The code is devleoped for reading data from Benewake CE30-A-CAN LiDAR using Raspberry Pi 485/CAN HAT (manufactured by Waveshare). 
